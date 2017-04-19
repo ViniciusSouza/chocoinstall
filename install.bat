@@ -44,3 +44,5 @@ choco install visualstudio2017enterprise  -y
 choco install whatsapp -y
 
 choco install postman -y
+
+choco install windowsazurepowershell -y
